@@ -1,0 +1,49 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 14,
+    "editor.renderWhitespace": "none",
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.indentSize": "tabSize",
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.tabSize": 4,
+    "editor.fontFamily": "'Monaspace Neon', monospace",
+    "editor.fontLigatures": "'calt', 'liga', 'dlig', 'ss01', 'ss02', ... (more stylistic sets) ...",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "workbench.tree.indent": 18,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.enablePreview": false,
+    "emmet.triggerExpansionOnTab": true,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "typescript.inlayHints.variableTypes.enabled": true,
+    "typescript.inlayHints.parameterTypes.enabled": true,
+    "typescript.inlayHints.parameterNames.enabled": "literals",
+    "tinypng.apiKey": "WkSxb5H9CXgXZtMYnjFFCrbvrylFWQP9",
+    "workbench.settings.openDefaultSettings": false,
+    "workbench.settings.useSplitJSON": true,
+    "workbench.settings.editor": "json",
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "*.ts": "typescript"
+    },
+    "editor.quickSuggestions": {
+    "strings": "on"
+    },
+    "tailwindCSS.includeLanguages": {
+            "plaintext": "html"
+        },
+        "editor.fontVariations": false
+}
